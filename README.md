@@ -1,6 +1,6 @@
 # Minecraft Unifont
 
-Minecraft 1.21.8 中文像素字体，由 GNU Unifont 16.0.03 的 16x16 字模转换为 TTF。中文、英文与符号均来自 Unifont。
+Minecraft 中文像素字体，由 GNU Unifont 16.0.03 的 16x16 字模转换为 TTF。中文、英文与符号均来自 Unifont。
 
 ## 下载
 
